@@ -8,3 +8,5 @@
         <li>Import the 'blog_admin_db.sql' file into the database you created</li> You can find this file in the 'InstantWeb\databasebackup' directory
         <li>Go to <a href="http://localhost/InstantWeb/"> localhost</a></li>
 </ol>  
+
+For admin panel access username: ``admin`` password: ``admin``
